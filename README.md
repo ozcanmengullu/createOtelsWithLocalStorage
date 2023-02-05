@@ -1,4 +1,4 @@
-# etstur-assignment-ozcan
+# createOtelsWithLocalStorage
 
 Proje localStorage kullandigindan dolayi, proje calistirildiginda listeleme ekrani bos gelecektir. Otel ekleme sayfasindan ekleme yaparak kullanmaya baslayabilirsiniz.
 
