@@ -1,7 +1,4 @@
 # createOtelsWithLocalStorage
-
-# Projeyi calistirmak icin 
-
+Projeyi calistirmak icin 
 npm run serve 
-
 komutu calistirilmalidir. 
